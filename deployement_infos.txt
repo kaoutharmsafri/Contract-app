@@ -1,0 +1,26 @@
+status	true Transaction mined and execution succeed
+transaction hash	0x714e736a0c0b776765b9290af26a14fcd971dc3a2526100522feede9230cf52c
+block hash	0xbd1b831fe35bcb4326be3841ab79f009312ee24a23737ddbaa9e1366d2a304a0
+block number	41838163
+contract address	0x3c505Dd79AfF2481E1C9b9a064e5FDf908c31669
+from	0xfA9e24eed2dB48472e2ecc805Ab08086bAEF31A6
+to	KaoutharToken.(constructor)
+gas	1786115 gas
+transaction cost	1786115 gas 
+input	0x608...20033
+decoded input	{}
+decoded output	 - 
+logs	[
+	{
+		"from": "0x3c505Dd79AfF2481E1C9b9a064e5FDf908c31669",
+		"topic": "0x8be0079c531659141344cd1fd0a4f28419497f9722a3daafe3b4186f6b6457e0",
+		"event": "OwnershipTransferred",
+		"args": {
+			"0": "0x0000000000000000000000000000000000000000",
+			"1": "0xfA9e24eed2dB48472e2ecc805Ab08086bAEF31A6",
+			"previousOwner": "0x0000000000000000000000000000000000000000",
+			"newOwner": "0xfA9e24eed2dB48472e2ecc805Ab08086bAEF31A6"
+		}
+	}
+]
+val	0 wei
